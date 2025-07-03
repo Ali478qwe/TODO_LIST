@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/TO-DO-LIST.dir/src/TO-DO-LIST.cpp.o CMakeFiles/TO-DO-LIST.dir/include/Task/Task.cpp.o CMakeFiles/TO-DO-LIST.dir/include/Storage/Storage.cpp.o -o ../output/TO-DO-LIST 
